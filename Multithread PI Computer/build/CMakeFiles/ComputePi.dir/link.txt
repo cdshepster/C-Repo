@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -pthread -O3    CMakeFiles/ComputePi.dir/main.cpp.o CMakeFiles/ComputePi.dir/computePi.cpp.o CMakeFiles/ComputePi.dir/Queue.cpp.o CMakeFiles/ComputePi.dir/Map.cpp.o  -o ComputePi -rdynamic 

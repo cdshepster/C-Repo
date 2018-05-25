@@ -1,0 +1,3 @@
+/Users/cole/Desktop/CS3100/Homework/cs3100hw5/build/CMakeFiles/rebuild_cache.dir
+/Users/cole/Desktop/CS3100/Homework/cs3100hw5/build/CMakeFiles/edit_cache.dir
+/Users/cole/Desktop/CS3100/Homework/cs3100hw5/build/CMakeFiles/HW4.dir

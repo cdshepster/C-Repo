@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/cole/Desktop/CS3100/Homework/cs3100hw5/main.cpp
+iostream
+-
+unistd.h
+-
+string.h
+-
+vector
+-
+cmath
+-
+chrono
+-
+sys/wait.h
+-
+errno.h
+-
+err.h
+-
+unistd.h
+-
+signal.h
+-
+
